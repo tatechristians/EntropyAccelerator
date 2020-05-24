@@ -1,3 +1,6 @@
+/**
+ * This is our entropy accelerator code
+ */
 #include <msp430.h> 
 
 

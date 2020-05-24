@@ -1,2 +1,0 @@
-# EntropyAccelerator
-Escape room project
